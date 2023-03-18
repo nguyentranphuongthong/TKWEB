@@ -1,0 +1,68 @@
+body{
+  background-color: #ccffff;
+  padding: 6px;
+  margin: -1px;
+  font-size: 20px;
+}
+
+
+/* Header **/
+header{
+  padding: 20px 70px 5px 1px;
+  margin: -7px;
+  background-color: #00ff99;
+  border-bottom-style: solid;
+  border-color: blue;
+}
+
+header a{
+  text-decoration: none;
+  
+}
+
+header li{
+ display: inline-block;
+padding-right:24px;
+font-size: 30px;
+}
+
+header #branding{
+  
+
+}
+
+header #branding h1{
+  
+
+}
+
+header nav{
+ 
+
+}
+
+header .highlight, header .current a{
+  color:lightcoral ;
+
+}
+
+header a:hover{
+  
+
+}
+
+
+footer{
+  padding: 5px;
+  margin: -7px;
+  margin-top: 30px;
+  background-color: blue;
+  color: aliceblue;
+  text-align: center;
+
+}
+
+#newsletter form input[type="email"], .quote input, .quote textarea{
+    
+  }
+
