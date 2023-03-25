@@ -42,7 +42,7 @@ header a{
 header li{
     float:left;
   display:block;
-  padding: 10px;
+  padding: 20px;
 
 }
 
@@ -58,7 +58,7 @@ header #branding h1{
 
 header nav{
     float: right;
-  margin-top: px;
+  margin-top:-21px;
 
 }
 
@@ -82,3 +82,4 @@ footer{
   text-align: center;
 
 }
+
